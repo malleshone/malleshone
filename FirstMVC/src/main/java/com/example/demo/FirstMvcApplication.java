@@ -10,6 +10,8 @@ public class FirstMvcApplication {
 		SpringApplication.run(FirstMvcApplication.class, args);
 		
 		System.out.println("mvc main method is started");
+		
+		System.out.println("edited by dev");
 	}
 
 }
